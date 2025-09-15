@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-15T11:50:11 IST" name="Surefire suite" finished-at="2025-09-15T11:50:57 IST" duration-ms="45887">
+    <groups>
+    </groups>
+    <test started-at="2025-09-15T11:50:11 IST" name="Surefire test" finished-at="2025-09-15T11:50:57 IST" duration-ms="45887">
+      <class name="org.Flows.Flows123">
+        <test-method signature="tc01()[pri:0, instance:org.Flows.Flows123@48ae9b55]" started-at="2025-09-15T11:50:11 IST" name="tc01" finished-at="2025-09-15T11:50:13 IST" duration-ms="2570" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+        <test-method is-config="true" signature="tc02()[pri:0, instance:org.Flows.Flows123@48ae9b55]" started-at="2025-09-15T11:50:13 IST" name="tc02" finished-at="2025-09-15T11:50:57 IST" duration-ms="43265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc02 -->
+      </class> <!-- org.Flows.Flows123 -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
