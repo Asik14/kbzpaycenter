@@ -178,7 +178,7 @@ public class Flows123 extends BaseClass{
 
 		driver.findElement(By.xpath("(//*[@tabindex='0'])[8]")).click();
 
-		Thread.sleep(700);
+		Thread.sleep(800);
 
 		driver.findElement(By.xpath("(//*[@tabindex='0'])[9]")).click();
 
