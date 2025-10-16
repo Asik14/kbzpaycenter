@@ -284,7 +284,7 @@ public class Flows123 extends BaseClass{
 
 		driver.findElement(By.xpath("//*[@autocorrect='off']")).sendKeys("Testing - Send for Checker ");
 
-		Thread.sleep(1000);
+		Thread.sleep(1100);
 
 		driver.findElement(By.xpath("//*[text()='Next']")).click();
 
